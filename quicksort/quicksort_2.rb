@@ -26,3 +26,4 @@ class QuickSort
 end
 
 p QuickSort.sort([1,5,7,2,4,8,3,7])
+
